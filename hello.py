@@ -6,3 +6,6 @@ print'good evening to all'
 
 
 #create student object
+
+#create one more student object and call the feature 
+
