@@ -7,4 +7,4 @@ print msg
 #create student object
 #create one 
 #create2
-
+#every number on new line
